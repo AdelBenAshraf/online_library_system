@@ -1,6 +1,5 @@
 /*
- @author Amira Ali || ID:20190111 || G14
- @author Adel Ashraf || ID:20190279 || G14
+ @author Adel Ashraf
 
 @Explaination: This User.cpp which have the implementation of the methods for the class which make type users
 which have these attributes (name, age, email, password, id) and It have also the implementation of setters and getters for every attribute,

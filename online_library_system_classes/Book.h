@@ -1,6 +1,5 @@
 /*
-@author Amira Ali || ID:20190111 || G14
-@author Adel Ashraf || ID:20190279 || G14
+@author Adel Ashraf
 
 @Explaination: This is.h  Bookwhich is responsible for making objects of
  type Books which have these attributes: (title, ISBN, ID, Category, author and average rating).
